@@ -1,1 +1,1 @@
-return "[+] Doing Beta.\n[+] Added Info line."
+return "[+] Doing Beta.\n[+] Added Info Label."
